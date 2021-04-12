@@ -1,4 +1,4 @@
-# simpleMessenger
+# SimpleMessenger
 Test project for education. May be deleted in the future (idk when).
 
 Nothing interesting here
